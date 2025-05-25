@@ -21,7 +21,7 @@ links.forEach(function(link){
         content.classList.add("animated");
 
         setTimeout(function(){
-            location.href = "/Primera-Pagina-web---Top-Pizzas";
+            location.href = "/Primera-Pagina-web---Top-Pizzas/index.html";
         },600);
 
     });
